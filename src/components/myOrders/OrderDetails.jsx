@@ -83,7 +83,7 @@ const OrderDetails = () => {
           <div>
             <h4>Burger Fries</h4>
             <div>
-              <span>{10}</span> x <span>{1800}</span>
+              <span>{10}</span> x <span>{1850}</span>
             </div>
           </div>
           <div>
