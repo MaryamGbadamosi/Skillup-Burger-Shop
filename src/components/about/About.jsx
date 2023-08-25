@@ -29,10 +29,10 @@ const About = () => {
           <article>
             <div>
               <img src={me} alt="Founder" />
-              <h3>Nelson</h3>
+              <h3>Nelsons</h3>
             </div>
             <p>
-              I am Nelson, the founder of Burger Shop. Affiliated to God
+              I am Nelsons, the founder of Burger Shop. Affiliated to God
               Taste...
             </p>
           </article>
